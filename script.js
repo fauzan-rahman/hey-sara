@@ -1,5 +1,7 @@
 // Array of 100 quotes (you can replace them with your curated quotes)
 const quotes = [
+  "you look busy so i hope this helps on a bad day or during burnouts",
+  
   "Just keep swimming! Just keep swimming swimming swimming",
 
   "Try to say “fuck you” to the world every once in a while, it will 100% help",
@@ -220,8 +222,8 @@ document.getElementById('inputNumber').addEventListener('keypress', handleKeyPre
 // Function to display a quote based on the input number
 function displayQuote() {
   const inputNumber = parseInt(document.getElementById('inputNumber').value);
-  if (inputNumber >= 1 && inputNumber <= 100) {
-      const quoteIndex = inputNumber - 1; // Adjust index to match array indexing
+  if (inputNumber >= 0 && inputNumber <= 100) {
+      const quoteIndex = inputNumber; // Adjust index to match array indexing
       const quoteDisplay = document.getElementById('quoteDisplay');
       const quoteText = quotes[quoteIndex];
 
