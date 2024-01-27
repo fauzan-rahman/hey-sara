@@ -31,7 +31,7 @@
 
 .animated {
   animation-name: fadeIn;
-  animation-duration: 1.5s; /* Adjust animation duration as needed */
+  animation-duration: 1s; /* Adjust animation duration as needed */
   animation-fill-mode: forwards; /* Retain final state of animation */
 }
 
