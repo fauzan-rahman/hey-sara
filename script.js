@@ -223,9 +223,9 @@ const quotes = [
 
   "Sometimes we get so caught up in our own problems that we forget how amazing the world is",
 
-  "You know what, life happens, and it is okay.",
-
   "Life has no remote.... get up and change it yourself!",
+
+  "You know what, life happens, and it is okay.",
 
   "Every solution to every problem is simple. It's the distance between the two where the mystery lies",
   
