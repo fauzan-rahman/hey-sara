@@ -1,4 +1,4 @@
-// Array of 100 quotes (you can replace them with your curated quotes)
+// Array of 324 quotes (you can replace them with your curated quotes)
 const quotes = [
   "you look busy so i hope this helps on a bad day or during burnouts",
   
@@ -406,7 +406,264 @@ const quotes = [
   "I know you're scared sometimes, but you'll make it",
 
   //This is the 200 mark
+  
+  "drink a glass of water please",
 
+  "Sometimes feeling too much is a hell of a lot better than feeling nothing",
+
+  "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater.",
+
+  "But I know, somehow, that only when it is dark enough can you see the stars.",
+  
+  "They say a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for.",
+  
+  "Life is such unutterable hell, solely because it is sometimes beautiful.",
+  
+  "A normal life is a pretty complex stuff, don't worry if you think your life aren't very much normal",
+  
+  "The very least you can do in your life is figure out what you hope for. And the most you can do is live inside that hope. Not admire it from a distance but live right in it, under its roof.",
+
+  "Yell me for help if you need it",
+  
+  "You can't design your life like a building. It doesn't work that way. You just have to live it, and it will design itself.",
+
+
+  "I used to wonder why am I constantly looking for reasons not to be happy, I hope you're not doing that!",
+
+  "It's only once you've stopped that you realize how hard it is to start again, so just keep going and don't stop!",
+
+  "The three-day rule is a childish, manipulative mind game. But yeah, you wait three days.",
+
+  "You steer the ship the best way you know. Sometimes it's smooth. Sometimes you hit the rocks. In the meantime, you find your pleasures where you can",
+  
+  "A word of advice: Play along. The more you fight it, the worse it's gonna get",
+  
+  "That's life, you know. We never end up where you thought you wanted to be. But hey, maybe we're now at where we really needed to be.",
+  
+  "A wrong decision is better than indecision",
+  
+  "You can't just give up. Is that what a dinosaur would do?",
+
+  "I had a very long, hard day, and if you too then give me a high-six! (cause a high-five doesn't even cut it)",
+  
+  "The world sucks, but we're still gonna love it right?",
+
+
+  "Its a moo point. Like a cows opinion... it just doesn't matter... Its moo",
+
+  "If you are not having a good time right now, I specifically requested it!",
+
+  "Pretty cliche but comparison is truly the thief of joy",
+
+  "The grass isn't greener on the other side, it is greener where you take care of it!",
+  
+  "'I wish it need not have happened in my time,' said Frodo. 'So do I,' said Gandalf, 'and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.'",
+  
+  "It is possible to commit no mistakes and still lose. That's just life sometimes.",
+  
+  "You can be the ripest, yummiest, juiciest peach and there will still be people in the world who hate peaches with all their soul",
+  
+  "A job worth doing is a job worth doing right",
+
+  "Gain responsibility, but never grow up. Grown ups don't have fun.",
+  
+  "stop trying to make sense of something that will never make sense",
+
+
+  "Everything in life doesn't need to make sense now, it will make sense when it's time for us to see it that way.",
+
+  "Happiness is like a warm puppy, you know",
+
+  "a heck of a lot of things are bound to go wrong in a world as big as this one. And if there's an answer to why it's that way - and there ain't always - why, it's probably not just one answer by itself, but thousands of answers.",
+
+  "Don't get too deep, it leads to over thinking, and over thinking leads to problems that don't even exist in the first place",
+  
+  "They say, “Look before you leap.” So look. But do not look for too long. Do not look into the void of uncertainty trying to predict each and every possible outcome, to evaluate every possible mistake, to prevent each possible failure.\n\nLook for the opportunity to leap, and leap faster than your fear can grab you. Leap before you talk yourself out of it, before you convince yourself to set up a temporary camp that turns into a permanent delay on your journey into your own heart.",
+  
+  "Oh the places you'll go! There is fun to be done! There are points to be scored. There are games to be won. And the magical things you can do with that ball will make you the winning-est winner of all",
+  
+  "Don't half ass two things. Whole ass one thing.",
+  
+  "I never said it would be easy, I only said it would be worth it",
+
+  "Everything's a risk. Not doing anything is a risk. It's up to you",
+  
+  "Whenever something bad happens, keep calm, take a few deep breaths and shift the focus to something positive",
+
+
+  "This is probably the advantage of being stupid. Stupid people just do. We tend to overthink. If we could eliminate the “over” and just think, then we could do, too",
+
+  "The best discoveries always happened to the people who weren't looking for them",
+
+  "Start a huge, foolish project, like Noah… it makes absolutely no difference what people think of you",
+
+  "Oprah wasn't built in a day (Yes, it should've been “Rome”)",
+  
+  "You don't have to understand it, your character does",
+  
+  "What's so fun in getting something without a bit of tears, right?",
+  
+  "Don't feel angry about the guilt, and don't feel guilty about the anger",
+  
+  "Inch by inch",
+
+  "In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing",
+  
+  "There is no such thing as right person wrong time. The right people are timeless, I think.",
+
+  // this is the 250 mark
+
+  "It's not always about what you say, but how you say it",
+
+  "You may think your only choices are to swallow your anger or throw it in someone's face, but there's a third option: You can just let it go, and only when you do that is it really gone, and you can move forward",
+
+  "When we overthink, we missed everything worth feeling",
+
+  "Nothing good happens after 2:00 am when 2:00 am rolls around, just go home and go to sleep",
+  
+  "Because when soccer, strippers, and sit-coms can't help, the only thing that can really heal a broken heart is time.",
+  
+  "The future is scary, but you can't just run back to the past because it's familiar. Yes, it's tempting, but it's a mistake.",
+  
+  "I realized that I'm searching, searching for what I really want in life. And you know what? I have absolutely no idea what that is.",
+  
+  "Every night can't be legendary. If all nights are legendary, no nights are legendary.",
+
+  "Sometimes, things have to fall apart to make way for better things",
+  
+  "It was at times a long, difficult road. But I'm glad it was long and difficult, because if we hadn't gone through hell to get there, the lesson might not have been as clear",
+
+
+  "Actually, no one has a problem with the first mile of a journey. Even an infant could do fine for a while. But it isn't the start that matters. It's the finish line, that's why when you're starting to see problems, you're close to the finish line.",
+
+  "Saying “I don't know” as an answer is never wrong. We don't know most things, if not everything, I think.",
+
+  "I've had a lot of worries in my life, most of which never happened",
+
+  "The most important decision you make is to be in a good mood",
+  
+  "Well, if it can be thought, it can be done, a problem can be overcome",
+  
+  "The truth is that the world is full of dragons, and none of us are as powerful or cool as we'd like to be. And that sucks. But when you're confronted with that fact, you can either crawl into a hole and quit, or you can get out there, take off your shoes, and Bilbo it up",
+  
+  "I trust that everything happens for a reason, even if we are not wise enough to see it.",
+  
+  "Life is a process of becoming, a combination of states we have to go through. Where people fail is that they wish to elect a state and remain in it. This is a kind of death.",
+
+  "Well done is better than well said",
+  
+  "Life is all about balance. If you do Karate, good, if you don't do Karate, good. If you try going middle, there will come a time when you would be squished, whaccc! Like a grape",
+
+  "Always make the attachment before typing the email.",
+
+  "sometimes being just as is, is just as fine as being different.",
+
+  "If you meet an asshole in the morning... they are the assholes. If you meet assholes all day long… maybe you are the asshole",
+
+  "At the end of the day, we're all humans; we make mistakes, we feel sad sometimes, and we think badly of ourselves every once in a while — and that's okay.",
+  
+  "Pick your battles",
+  
+  "You don't have to be perfect to be amazing.",
+  
+  "Nothing is ever as good as it seems and nothing is as bad as it seems, life all falls in the middle",
+  
+  "Everyone is doing their best; sometimes their best really sucks though… Just gotta keep up with it!",
+
+  "When in doubt, pinky out",
+  
+  "Every time I'm about to do something,\nI think: Would any idiot do that?\nIf they would, I do NOT do that thing",
+
+
+  "Speak when angry and you'll make the best speech you'll ever regret",
+
+  "Being sad or mad is alright, what's not is staying that way",
+
+  "Be optimistic, but always leave room for disappointment",
+
+  "You can be right, or you can have your way, rarely both though",
+  
+  "Life is too short to find a matching pair of socks, but remember to wear pants. Don't worry about the small things, put more focus on the bigger ones instead…",
+  
+  "There is nothing in this world worth killing yourself over",
+  
+  "Don't waste your time worrying about whether you have the strength to carry on with something. You'll know when you can't keep going, because you won't keep going.",
+  
+  "Money comes and goes. Time just goes, don't waste!!",
+
+  "Maybe they're not giving us a hard time, and they're having a hard time instead",
+  
+  "You wouldn't miss your turn if you'd slow down",
+
+  "Shit happens, but we'll be alright",
+
+  "It gets easier, but you gotta do it every day, that's the hard part. But it DOES get easier.",
+
+  "“Well, life's a bitch and then we die, right?”\n“Sometimes, life's a bitch and then we keep living”",
+
+  "Don't stop dancing!",
+  
+  "Life is 10% what happens to us and 90% how we react.",
+  
+  "Sometimes, in our pursuit of happiness, it is important to pause and just be happy.",
+  
+  "Aim small miss small",
+  
+  "Don't do things you know you'll never enjoy",
+
+  "As Shrek once said: “DONKEY!”. I find that quote very inspirational.",
+  
+  "Never give up on the things that make you smile (Bit corny but I just like it)",
+
+  "Keep messing up, no ones keep a tally or anything",
+
+  "Cherish the small wins",
+
+  "Time you enjoy wasting is never wasted",
+
+  "Life is too short for second guessing; ask or make a decision and stick with it",
+  
+  "Don't hold onto a mistake just because you spent a lot of time making it",
+  
+  "Shit don't change until get you get up and wash your ass. (I laughed reading this so let me put it here)",
+  
+  "Maybe, just maaaaybe, it's not hard. It's just time consuming..",
+  
+  "I don't know you that much but I would believe in you if you ever asked, so why wouldn't you!",
+
+  "Whatever happens, be kind to yourself",
+  
+  "Take a morning dump then see how you feel",
+
+
+  "We're always one decision away from a totally different life",
+  
+  "Embrace the bad days. Because without the bad ones, we'll take the good ones for granted.",
+
+  "If it matters to you, then it matters!",
+  
+  "Don't drink too much or you are just borrowing happiness from tomorrow",
+
+  "A problem is never a problem until you think it's one",
+
+  "even when we're constrained by the circumstances, things can still work out. It might not work in the most ideal way, but it can still be good enough to meet our needs to move forward.",
+
+  "I learned that what we thought was a small impact might be a much bigger impact for someone else, so just start!",
+
+  "one way to succeed when approaching challenges is to have the right mindset to begin with",
+  
+  "Be safe, don't die",
+  
+  "Don't rush things, one crime at a time!",
+  
+  "It's cliche but you'll fuck up every once in a while, but it means you took your chances and that's what matters the most.",
+  
+  "When things get tough, take a break and look around.",
+
+  "Good things take time, but we often forget about it.",
+  
+  "Whatever you're feeling right now, it's valid. It's just you being human, and that's okay.",
+  //This is the 324 Mark
 ];
 
 // Function to handle key press events
@@ -426,7 +683,7 @@ document.getElementById('inputNumber').addEventListener('keypress', handleKeyPre
 // Function to display a quote based on the input number
 function displayQuote() {
   const inputNumber = parseInt(document.getElementById('inputNumber').value);
-  if (inputNumber >= 0 && inputNumber <= 200) {
+  if (inputNumber >= 0 && inputNumber <= 324) {
       const quoteIndex = inputNumber; // Adjust index to match array indexing
       const quoteDisplay = document.getElementById('quoteDisplay');
       const quoteText = quotes[quoteIndex];
@@ -444,7 +701,7 @@ function displayQuote() {
           quoteDisplay.innerText = quoteText;
       }); // Adjust delay time as needed (in milliseconds)
   } else {
-      alert("Please enter a number between 1-200.");
+      alert("Please enter a number between 1-324.");
   }
 }
 
