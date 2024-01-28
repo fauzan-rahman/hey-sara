@@ -451,7 +451,7 @@ const quotes = [
 
   "Its a moo point. Like a cows opinion... it just doesn't matter... Its moo",
 
-  "If you are not having a good time right now, I specifically requested it!",
+  "If you are having a good time right now, I specifically requested it!",
 
   "Pretty cliche but comparison is truly the thief of joy",
 
